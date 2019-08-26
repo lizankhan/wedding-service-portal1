@@ -1,0 +1,48 @@
+
+body{
+  background: #333;
+  color:#fff;
+}
+#home-section{
+
+  background: url('../img/pexels-photo-1603884.jpeg') no-repeat center top;  /*  "../" backspace one folder and get into img */
+  background-size:cover;
+  background-attachment: fixed;
+  /* max-height: 450px; */
+  min-height: 700px;}
+  .lol{
+    border
+  }
+  /*.dark-overlay{
+    background: rgba(0,0,0,0.5);}
+    .fa{
+         background: #333;
+         color: #008ed6;
+         padding: 4px;
+         font-size:30px;
+         border-radius: 5px;  }
+         .card-form{
+           opacity:0.8;}
+           .home-inner{
+             padding-top:150px;
+           }
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 768px){
+  #home-section h1{
+    font-size:36px;
+  }
+}
